@@ -1,5 +1,9 @@
 # Web Development Activity-Based Learning
 
+NAME: PAMULA CIYON
+ROLL NUMBER: 26001335
+SECTION: CSM-7
+
 Three beginner-friendly static website activities, each in its own folder with an `index.html` page and `style.css` stylesheet.
 
 - [College Information](college-information/index.html)
